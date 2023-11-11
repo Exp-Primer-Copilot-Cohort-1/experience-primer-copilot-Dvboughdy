@@ -1,4 +1,4 @@
-use("matrix")
+use("multimedia")
 /* Mostrar el documento sin el Array */
 db.media.find(
   { titulo: "Matrix" },

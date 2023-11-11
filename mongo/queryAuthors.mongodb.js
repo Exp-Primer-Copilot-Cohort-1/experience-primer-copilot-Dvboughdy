@@ -1,4 +1,4 @@
-use("matrix")
+use("multimedia")
 /* Mostrar los autores compuestos dentro del Array */
 db.media.find(
   { titulo: "Matrix" },

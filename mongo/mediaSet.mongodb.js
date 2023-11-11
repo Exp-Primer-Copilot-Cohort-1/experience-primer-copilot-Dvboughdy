@@ -1,6 +1,6 @@
-use("matrix")
+use("multimedia")
 
-//coleccion de medicamentos
+//coleccion de media
 db.media.insertMany([
   {
     "tipo": "libro",
